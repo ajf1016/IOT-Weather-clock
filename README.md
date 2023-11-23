@@ -20,7 +20,7 @@ To build your IoT Weather Clock, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/ajf1016/IOT-Weather-clock.git
 
 2. **Project Structure:**
   📁 Arduino code for processing room temperature and humidity.
