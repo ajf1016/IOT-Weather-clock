@@ -23,9 +23,9 @@ To build your IoT Weather Clock, follow these steps:
    git clone https://github.com/ajf1016/IOT-Weather-clock.git
 
 2. **Project Structure:**
-  📁 Arduino code for processing room temperature and humidity.
-  📁 ESP8266 NodeMCU code for fetching and sending weather data.
-  📁 Documentation, including circuit diagrams.
+  - Arduino code for processing room temperature and humidity.
+  - ESP8266 NodeMCU code for fetching and sending weather data.
+  - Documentation, including circuit diagrams.
 
 ![1](Assets/1.png)
 ![2](Assets/2.png)
